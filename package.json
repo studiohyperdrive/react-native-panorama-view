@@ -3,8 +3,7 @@
   "title": "React Native Panorama View",
   "version": "1.0.1",
   "description": "A simple component for displaying panoramic images in your React Native app.",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "src/index.tsx",
   "homepage": "https://github.com/lightbasenl/react-native-panorama-view",
   "scripts": {
     "build": "tsc",
